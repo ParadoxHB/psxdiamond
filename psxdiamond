@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadoxHB/psx/main/psx"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadoxHB/psxwebhook/main/psxwebhook"))()
+--diamond tracker ^
